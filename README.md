@@ -1,7 +1,7 @@
 ## djs-embed-pages
 **djs-embed-pages** is an easy to use package for making discord embed pages, with many functions!
 
-This repo is forked from discord-pages, you can check out the original repo [here.](https://github.com/iColtz/discord-pages)
+NOTE: This repo is forked from discord-pages, you can check out the original repo [here.](https://github.com/iColtz/discord-pages)
 
 This package adds 2 additional features, such as:
 - Ability to go 10 pages forwards and backwards.
